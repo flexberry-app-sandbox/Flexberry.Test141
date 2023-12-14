@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-test14-контрагент-e",
+  "editForm": "i-i-s-test14-контрагент-e",
+  "external": false,
+  "caption": "Контрагент",
+  "name": "IISTest14КонтрагентL",
+  "className": "КонтрагентL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test14-контрагент",
+      "modelProjection": "КонтрагентL"
+    }
+  ]
+}

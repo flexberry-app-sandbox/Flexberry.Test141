@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-test14-в-наличии-e",
+  "editForm": "i-i-s-test14-в-наличии-e",
+  "external": false,
+  "caption": "В наличии",
+  "name": "IISTest14ВНаличииL",
+  "className": "ВНаличииL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test14-в-наличии",
+      "modelProjection": "ВНаличииL"
+    }
+  ]
+}

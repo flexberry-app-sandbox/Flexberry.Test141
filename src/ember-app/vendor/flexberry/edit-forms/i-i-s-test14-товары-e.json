@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ВНаличии",
+      "projection": "ВНаличииL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Товары",
+  "name": "IISTest14ТоварыE",
+  "className": "ТоварыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test14-товары",
+      "modelProjection": "ТоварыE"
+    }
+  ]
+}

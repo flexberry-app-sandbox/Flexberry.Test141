@@ -1,0 +1,64 @@
+﻿{
+  "applicationCaption": "Test14",
+  "applicationTitle": "Test14",
+  "items": [
+    {
+      "link": null,
+      "menuName": "test14",
+      "caption": "Test14",
+      "title": "Test14",
+      "children": [
+        {
+          "link": "i-i-s-test14-место-выдачи-l",
+          "menuName": null,
+          "caption": "Место выдачи",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test14-продавец-l",
+          "menuName": null,
+          "caption": "Продавец",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test14-товары-l",
+          "menuName": null,
+          "caption": "Товары",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test14-заказы-l",
+          "menuName": null,
+          "caption": "Заказы",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test14-контрагент-l",
+          "menuName": null,
+          "caption": "Контрагент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test14-оповещения-l",
+          "menuName": null,
+          "caption": "Оповещения",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test14-в-наличии-l",
+          "menuName": null,
+          "caption": "В наличии",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
